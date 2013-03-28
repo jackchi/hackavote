@@ -1,0 +1,21 @@
+[President]
+John Cleese=Python
+Bill Murray=SNL
+Robin Williams=Independent
+
+[Vice President]
+Terry Gilliam=Python
+Adam Sandler=SNL
+Jay Leno=Independent
+
+[Other1]
+Foo=Bar
+Baz=Bing
+
+[Other2]
+Foo=Bar
+Baz=Bing
+
+[Other3]
+Foo=Bar
+Baz=Bing

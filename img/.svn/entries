@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="67"
+   name=""
+   committed-date="2006-09-22T22:06:25.648860Z"
+   url="https://sys.cs.rice.edu/repos/comp527/f06/projects/hackavote/teams/05/submit/work/code/trunk/img"
+   last-author="iamjack"
+   kind="dir"
+   uuid="d8e7d9f5-cc1c-0410-b658-f025d6f29f7c"
+   revision="68"/>
+<entry
+   committed-rev="14"
+   name="nav_prev.gif"
+   text-time="2006-09-22T22:08:14.587736Z"
+   committed-date="2006-09-10T20:03:09.566962Z"
+   checksum="bbb971a1ef97d7a1f500fe791d370c2e"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.407476Z"/>
+<entry
+   committed-rev="67"
+   name="iflag.gif"
+   text-time="2006-09-22T22:08:14.597750Z"
+   committed-date="2006-09-22T22:06:25.648860Z"
+   checksum="3afa28c410994a05a72bce8948ae820d"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.427505Z"/>
+<entry
+   committed-rev="14"
+   name="nav_next.gif"
+   text-time="2006-09-22T22:08:14.607764Z"
+   committed-date="2006-09-10T20:03:09.566962Z"
+   checksum="f350aa8af7acfc17f7bff7a205873c7e"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.447534Z"/>
+<entry
+   committed-rev="14"
+   name="flag.jpg"
+   text-time="2006-09-22T22:08:14.637808Z"
+   committed-date="2006-09-10T20:03:09.566962Z"
+   checksum="dd65b498ebdb0807f0b3eb8530365e3a"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.537664Z"/>
+<entry
+   committed-rev="14"
+   name="check-big.jpg"
+   text-time="2006-09-22T22:08:14.657836Z"
+   committed-date="2006-09-10T20:03:09.566962Z"
+   checksum="d51938a47855e2dd59b22f5064b6479d"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.547678Z"/>
+<entry
+   committed-rev="14"
+   name="check.jpg"
+   text-time="2006-09-22T22:08:14.667851Z"
+   committed-date="2006-09-10T20:03:09.566962Z"
+   checksum="9d1071712c7b791e60caa73238f7449e"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.567707Z"/>
+</wc-entries>

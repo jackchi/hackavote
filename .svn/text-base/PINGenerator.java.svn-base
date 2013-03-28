@@ -1,0 +1,33 @@
+import java.util.Random;
+import java.util.Vector;
+/**
+ * PINGenerator is a PIN Generator for Hack-a-Vote
+ * The "random" number generator has been broken to use the sum of year, month, day as the seed
+ * We can generate a list of n PIN numbers based on the date of the election
+ * @author Jack Chi
+ *
+ */
+public class PINGenerator {
+
+	static Vector<Integer> PINList= new Vector<Integer>();
+	/**
+	 * @param args Expecting the following order
+	 * - year
+	 * - month
+	 * - day
+	 * - # of PINS to generate
+	 */
+	public static void main(String[] args) {
+		
+		int year = new Integer(args[0]).intValue();
+		int month = new Integer(args[1]).intValue()-1; // january starts at 0
+		int day = new Integer(args[2]).intValue();
+		int iterations = new Integer(args[3]).intValue();
+		
+		Random r= new Random(year+month+day);
+		for(int i=0; i < iterations; i++){
+			PINList.addElement(new Integer(r.nextInt(9000) + 1000));
+		}
+		System.out.println(PINList.toString());
+	}
+}

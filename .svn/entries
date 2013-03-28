@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="67"
+   name=""
+   committed-date="2006-09-22T22:06:25.648860Z"
+   url="https://sys.cs.rice.edu/repos/comp527/f06/projects/hackavote/teams/05/submit/work/code/trunk"
+   last-author="iamjack"
+   kind="dir"
+   uuid="d8e7d9f5-cc1c-0410-b658-f025d6f29f7c"
+   revision="68"/>
+<entry
+   committed-rev="55"
+   name="Console.java"
+   text-time="2006-09-22T22:08:14.757980Z"
+   committed-date="2006-09-22T01:25:20.598385Z"
+   checksum="4fb12dd04f60f56f7f5d7e483d573b29"
+   last-author="mrbkap"
+   kind="file"
+   prop-time="2006-09-22T22:08:13.906756Z"/>
+<entry
+   name="ballotbox"
+   kind="dir"/>
+<entry
+   committed-rev="34"
+   name="ConsoleGUI.java"
+   text-time="2006-09-22T22:08:14.778009Z"
+   committed-date="2006-09-19T07:10:30.172715Z"
+   checksum="75829e9ce174276bb30d191fed2db331"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.026929Z"/>
+<entry
+   committed-rev="55"
+   name="AdminPanel.java"
+   text-time="2006-09-22T22:08:14.788024Z"
+   committed-date="2006-09-22T01:25:20.598385Z"
+   checksum="9a74757dd4944694d4d3a258711c99ff"
+   last-author="mrbkap"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.046958Z"/>
+<entry
+   committed-rev="24"
+   name="ResultsTable.java"
+   text-time="2006-09-22T22:08:14.798038Z"
+   committed-date="2006-09-16T21:26:51.546820Z"
+   checksum="cb2a6d73ab90c67d3522dcc5548570e1"
+   last-author="mrbkap"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.066987Z"/>
+<entry
+   committed-rev="24"
+   name="BallotConfirmPanel.java"
+   text-time="2006-09-22T22:08:14.808052Z"
+   committed-date="2006-09-16T21:26:51.546820Z"
+   checksum="d7b8c5c1e11b18f6c1cdf34b3a78b5f3"
+   last-author="mrbkap"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.077001Z"/>
+<entry
+   committed-rev="14"
+   name="Candidate.java"
+   text-time="2006-09-22T22:08:14.828081Z"
+   committed-date="2006-09-10T20:03:09.566962Z"
+   checksum="979db150aa3483ca201db8995d58d36a"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.107044Z"/>
+<entry
+   committed-rev="14"
+   name="README"
+   text-time="2006-09-22T22:08:14.838096Z"
+   committed-date="2006-09-10T20:03:09.566962Z"
+   checksum="b5e80228c0c7617939344db412a4920a"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.127073Z"/>
+<entry
+   committed-rev="14"
+   name="build.xml"
+   text-time="2006-09-22T22:08:14.878153Z"
+   committed-date="2006-09-10T20:03:09.566962Z"
+   checksum="0a63dedd2404bdad21b7df766de74de9"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.167131Z"/>
+<entry
+   committed-rev="67"
+   name="BallotControl.java"
+   text-time="2006-09-22T22:08:14.858124Z"
+   committed-date="2006-09-22T22:06:25.648860Z"
+   checksum="8c824e96a82bc0359ea9c80df7947bbb"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.147102Z"/>
+<entry
+   committed-rev="20"
+   name="IniFile.java"
+   text-time="2006-09-22T22:08:14.898182Z"
+   committed-date="2006-09-14T03:15:37.196185Z"
+   checksum="359fcbb7ce260bca10d8913a712cfb30"
+   last-author="mrbkap"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.187160Z"/>
+<entry
+   committed-rev="24"
+   name="SelfTester.java"
+   text-time="2006-09-22T22:08:14.938240Z"
+   committed-date="2006-09-16T21:26:51.546820Z"
+   checksum="3445692af5cab6c82408ae6484f60793"
+   last-author="mrbkap"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.227217Z"/>
+<entry
+   committed-rev="65"
+   name="README.html"
+   text-time="2006-09-22T22:08:14.908196Z"
+   committed-date="2006-09-22T15:03:54.706226Z"
+   checksum="11253e8d309aff4cd47f7247e6cc5518"
+   last-author="mrbkap"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.207188Z"/>
+<entry
+   committed-rev="67"
+   name="BallotGUI.java"
+   text-time="2006-09-22T22:08:14.948254Z"
+   committed-date="2006-09-22T22:06:25.648860Z"
+   checksum="909dc30abe7bee5be29c41c97e8c6d35"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.237232Z"/>
+<entry
+   committed-rev="20"
+   name="form"
+   text-time="2006-09-22T22:08:14.958268Z"
+   committed-date="2006-09-14T03:15:37.196185Z"
+   checksum="b4723119f7a256f911aa2e922925b663"
+   last-author="mrbkap"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.257260Z"/>
+<entry
+   name="img"
+   kind="dir"/>
+<entry
+   committed-rev="31"
+   name="PINQueryPanel.java"
+   text-time="2006-09-22T22:08:14.978297Z"
+   committed-date="2006-09-19T03:21:52.632592Z"
+   checksum="a6b342e413c531eb32d50e22bfdf953b"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.277289Z"/>
+<entry
+   committed-rev="14"
+   name="MachineDefaults.java"
+   text-time="2006-09-22T22:08:14.988312Z"
+   committed-date="2006-09-10T20:03:09.566962Z"
+   checksum="2e4abd852041760ffff85a2023a78295"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.337376Z"/>
+<entry
+   committed-rev="51"
+   name="PINGenerator.java"
+   text-time="2006-09-22T22:08:14.998326Z"
+   committed-date="2006-09-21T07:26:40.171526Z"
+   checksum="20549c7cfffe530e633d7b6ccf05b365"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.727937Z"/>
+<entry
+   committed-rev="14"
+   name="Makefile"
+   text-time="2006-09-22T22:08:15.018355Z"
+   committed-date="2006-09-10T20:03:09.566962Z"
+   checksum="04240217d396d52028b9efe19b02a45c"
+   last-author="iamjack"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.737952Z"/>
+<entry
+   committed-rev="24"
+   name="BallotPanel.java"
+   text-time="2006-09-22T22:08:15.038384Z"
+   committed-date="2006-09-16T21:26:51.546820Z"
+   checksum="7a7e4dfc76347ca49246c10e317f69ab"
+   last-author="mrbkap"
+   kind="file"
+   prop-time="2006-09-22T22:08:14.747966Z"/>
+</wc-entries>
